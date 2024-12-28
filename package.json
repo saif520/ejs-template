@@ -1,0 +1,28 @@
+{
+  "name": "ejs-template",
+  "version": "1.0.0",
+  "description": "this is simple ejs tutorials",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saif520/ejs-template.git"
+  },
+  "keywords": [
+    "ejs",
+    "nodejs",
+    "express"
+  ],
+  "author": "Saifuddin Dhali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saif520/ejs-template/issues"
+  },
+  "homepage": "https://github.com/saif520/ejs-template#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}
